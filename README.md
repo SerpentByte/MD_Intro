@@ -10,7 +10,8 @@ Basic working knowledge of Linux command line and Python are required (links bel
 <br>
 Links to material for Molecular Dynamics:
 <ul>
-  <li>Introduction to MD: https://www.youtube.com/watch?v=GqvT9UvCr6I, https://www.youtube.com/watch?v=eo_Y65ZNWSE</li>
+  <li>Introduction to MD:<br> https://www.youtube.com/watch?v=GqvT9UvCr6I<br>
+  https://www.youtube.com/watch?v=eo_Y65ZNWSE</li>
   <li>Overview of MD: https://www.youtube.com/watch?v=veBZYlD6AF4</li>
 </ul>
 <br>
