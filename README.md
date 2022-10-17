@@ -26,6 +26,7 @@ Books/References:
 <br>
 GROMACS Tutorial:<br>
 <ul>
+  <li> Download: https://manual.gromacs.org/current/download.html</li>
   <li> Installation: https://manual.gromacs.org/current/install-guide/index.html </li>
   <li> Tutorial by Dr. Justin Lemkul: http://www.mdtutorials.com/gmx/lysozyme/index.html </li>
 </ul>
