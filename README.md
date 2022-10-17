@@ -5,6 +5,7 @@ Basic working knowledge of Linux command line and Python are required (links bel
 <ul>
   <li>Linux command line: https://www.youtube.com/watch?v=ROjZy1WbCIA<br>(see the chapter Terminals, Working with directories, Working with files)</li>
   <li>Python introduction: https://www.youtube.com/watch?v=rfscVS0vtbw <br> (till chapter Comments)</li>
+  <li>>Vim: https://www.youtube.com/watch?v=ggSyF1SVFr4</li>
 </ul>
 <br>
 <br>
