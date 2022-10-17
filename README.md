@@ -17,6 +17,6 @@ Links to material for Molecular Dynamics:
 <br>
 Books/References:
 <ul>
-  <li>Computer Simulation of Liquids by M.P.Allen and D.J.Tildesley (https://libgen.is/book/index.php?md5=104002F5EB6BA9A36E833FE1848568ED)</li>
-  <li>Understanding Molecular Simulation by Daan Frenkel and Berend Smit (https://libgen.is/book/index.php?md5=B005C0E50AADC5EA8263278FA175A9C4)</li>
+  <li>Computer Simulation of Liquids by M.P.Allen and D.J.Tildesley<br>(https://libgen.is/book/index.php?md5=104002F5EB6BA9A36E833FE1848568ED)</li>
+  <li>Understanding Molecular Simulation by Daan Frenkel and Berend Smit<br>(https://libgen.is/book/index.php?md5=B005C0E50AADC5EA8263278FA175A9C4)</li>
 </ul>
