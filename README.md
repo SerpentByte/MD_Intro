@@ -10,7 +10,13 @@ Basic working knowledge of Linux command line and Python are required (links bel
 <br>
 Links to material for Molecular Dynamics:
 <ul>
-  <li>Introduction to MD: https://www.youtube.com/watch?v=GqvT9UvCr6I</li>
+  <li>Introduction to MD: https://www.youtube.com/watch?v=GqvT9UvCr6I, https://www.youtube.com/watch?v=eo_Y65ZNWSE</li>
   <li>Overview of MD: https://www.youtube.com/watch?v=veBZYlD6AF4</li>
-  <li>Introduction to MD: https://www.youtube.com/watch?v=eo_Y65ZNWSE</li>
+</ul>
+<br>
+<br>
+Books/References:
+<ul>
+  <li>Computer Simulation of Liquids by M.P.Allen and D.J.Tildesley (https://libgen.is/book/index.php?md5=104002F5EB6BA9A36E833FE1848568ED)</li>
+  <li>Understanding Molecular Simulation by Daan Frenkel and Berend Smit (https://libgen.is/book/index.php?md5=B005C0E50AADC5EA8263278FA175A9C4)</li>
 </ul>
