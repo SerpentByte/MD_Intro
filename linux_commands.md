@@ -1,4 +1,4 @@
-<h3>Here is a list and descriptions of the most basic and highly used linux commands</h3>
+<h2>Here is a list and descriptions of the most basic and highly used linux commands</h2>
 
 One can check the documentation for advanced usage for each command by typing
 ```<command> -h``` in Linux terminal.
@@ -46,3 +46,10 @@ One can check the documentation for advanced usage for each command by typing
 
 ```mv -v <source path> <target path>```<br>
 ```mv -rv <source directory> <target path>```<br>
+
+<h2>Wildcard characters</h2>
+Wildcard characters are special characters that mean something specific in the linux command line. Two of the most important ones are * and ?.<br>
+Here are a few links to learn what they are and how to use them.<br>
+https://www.educba.com/linux-wildcards/<br>
+https://www.iexpertify.com/linux/using-wildcards-in-linux/<br>
+https://medium.com/techtofreedom/wildcards-on-linux-a-practical-guide-ed59795a4cc1<br>
