@@ -8,6 +8,8 @@ Basic working knowledge of Linux command line and Python are required (links bel
   <li>Vim: https://www.youtube.com/watch?v=ggSyF1SVFr4</li>
 </ul>
 <br>
+A list of the most useful commands have been provided in linux_commands.md
+<br>
 <br>
 Links to material for Molecular Dynamics:
 <ul>
