@@ -48,7 +48,8 @@ One can check the documentation for advanced usage for each command by typing
 ```mv -rv <source directory> <target path>```<br>
 
 <h2>Wildcard characters</h2>
-Wildcard characters are special characters that mean something specific in the linux command line. Two of the most important ones are * and ?.<br>
+Wildcard characters are special characters that mean something specific in the linux command line.<br>
+Two of the most important ones are * and ?.<br>
 Here are a few links to learn what they are and how to use them.<br>
 https://www.educba.com/linux-wildcards/<br>
 https://www.iexpertify.com/linux/using-wildcards-in-linux/<br>
