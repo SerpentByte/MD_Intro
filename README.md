@@ -8,7 +8,7 @@ Basic working knowledge of Linux command line and Python are required (links bel
   <li>Vim: https://www.youtube.com/watch?v=ggSyF1SVFr4</li>
 </ul>
 <br>
-A list of the most useful commands have been provided in linux_commands.md
+A list of the most useful commands have been provided in <a href="https://github.com/SerpentByte/MD_Intro/blob/main/linux_commands.md">linux_commands.md</href>
 <br>
 <br>
 Links to material for Molecular Dynamics:
