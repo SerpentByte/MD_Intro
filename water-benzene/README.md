@@ -18,6 +18,6 @@ However, in low concentrations/high temperatures, entropy takes precedence and o
 </ul>
 
 **The files required for running the simulations have been provided in this folder.**<br>
-**For calculating the numnber of water molecules to put into a box, *see conc.md* file.**
+**For calculating the number of water molecules to put into a box, *see conc.md* file.**
 
 *please use 6 nm as the box length so as all simulations done are on the same system size.*
