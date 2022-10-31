@@ -1,4 +1,4 @@
-<h1> Investigations into water-benzene binary mix </h1>
+<h1> Investigations into water-benzene binary mixture </h1>
 
 <h3> Introduction </h3>
 We shall make use of MD simulations to invesigate some *statistical* properties of a binary mixture.<br>
