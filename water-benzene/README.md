@@ -6,8 +6,7 @@ We shall make use of MD simulations to invesigate some *statistical* properties 
 Benzene and water are not miscible. They should separate out into two layers, if both present in high concentrations.<br>
 The reason being their mixture is energetically (enthalpic) forbidden. 
 
-However, in low concentrations/high temperatures,<br>
-entropy takes precedence and one can still obtain "solvated" benzene/water.
+However, in low concentrations/high temperatures, entropy takes precedence and one can still obtain "solvated" benzene/water.
 
 <h3> What is to be done </h3>
 <ul>
