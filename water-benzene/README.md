@@ -12,6 +12,9 @@ entropy taken precedence and one can still obtain "solvated" benzene/water.
  <li> Prepare systems where water is present in benzene at concentrations 10%, 15% and 20% (v/v). </li>
  <li> Generate images/snapshots of each system. </li>
  <li> Measure some statistical quantities: $g(r)$, $MSD$, etc </li>
+ <li> Repeat for two water models: i) TIP3P-charmm ii) TIP3P </li>
 </ul>
 
 **The files required for running the simulations have been provided in this folder.**
+**For calculating the numnber of water molecules to put into a box, *see conc.md* file.**
+* please use 6 nm as the box length so as all simulations done are on the same system size. *
