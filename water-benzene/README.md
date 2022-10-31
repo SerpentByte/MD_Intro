@@ -10,6 +10,8 @@ However, in low concentrations/high temperatures, entropy takes precedence and o
 
 <h3> What is to be done </h3>
 <ul>
+ <li> Prepare a neat water system. </li>
+ <li> Prepare a pure benzene system. </li>
  <li> Prepare systems where benzene is present in water at concentrations 10%, 15% and 20% (v/v). </li>
  <li> Prepare systems where water is present in benzene at concentrations 10%, 15% and 20% (v/v). </li>
  <li> Generate images/snapshots of each system. </li>
