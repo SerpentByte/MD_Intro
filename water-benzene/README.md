@@ -1,6 +1,7 @@
 <h1> Investigations into water-benzene binary mixture </h1>
 
 <h3> Introduction </h3>
+
 We shall make use of MD simulations to invesigate some *statistical* properties of a binary mixture.<br>
 Benzene and water are not miscible. They should separate out into two layers, if both present in high concentrations.<br>
 The reason being their mixture is energetically (enthalpic) forbidden. However, in low concentrations/high temperatures,<br>
