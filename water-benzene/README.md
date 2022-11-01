@@ -46,5 +46,5 @@ This will unzip the respective zip file and you should see a folder with the sam
 
 <h3> Suggested practices </h3>
  Data storage and management is a very important part of working in a computational lab.<br>
- Curation of the generated data into proper directories, with self-explanatory directories and paths is very important.<br>
- Without proper data management, things can become very messy very fast. Therefore it is advised to create proper directories or move important downloaded content to proper locations before initiation of any procedure involving them.
+ Curation of the generated data into proper directories, with self-explanatory directory and file names and paths is very important.<br>
+ Without proper data management, things can become very messy very fast. Therefore it is advised to create proper directories or move important, downloaded content to proper locations before initiation of any procedure involving them.
