@@ -32,10 +32,12 @@ However, in low concentrations/high temperatures, entropy takes precedence and o
   <li> Plot the measured properties using a plotting software of choice </li>
  </ul>
 
-**The files required for running the simulations can be found from this link.**<br>
-https://drive.google.com/drive/folders/1XZ0GzTJOC8TdTmdVBk7RH4Wap9RZ-ku9?usp=share_link
+<h3> Simulation topologies </h3>
 
-**How to use the zip files**
+**The files required for running the simulations can be found from this link.**<br>
+https://drive.google.com/drive/folders/1XZ0GzTJOC8TdTmdVBk7RH4Wap9RZ-ku9?usp=share_link<br>
+
+**How to use the zip files**<br>
 Right click on each of them to get the download option. In Linux, type the following<br>
 ```unzip <filename>```<br>
 For example, if you want to unzip benzene_water.zip, type<br>
