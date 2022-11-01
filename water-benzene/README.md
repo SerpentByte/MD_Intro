@@ -20,7 +20,8 @@ However, in low concentrations/high temperatures, entropy takes precedence and o
 
 <h3> Simulations details </h3>
  <ul>
-  <li> With a box size of 6nm for system, first run energy miniimizations. Then perform NVT and NPT equilibrations followed by 10ns of NPT production runs. (total of 8 simulations in total) </li>
+  <li> With a box size of 6nm for system, first run energy miniimizations. Then perform NVT and NPT equilibrations followed by 10ns of NPT production runs. You need to edit the numner of steps in the prod.mdp file to simulate for the correct amount of time.
+  (total of 8 simulations in total) </li>
   <li> **For neat water only, vary the box size: 4nm, 6nm, 8nm. (3 simulations)
   <li> **For neat water only, vary the water model: SPC/E and TIP3P. (2 simulations)
  </ul>
