@@ -32,7 +32,7 @@ However, in low concentrations/high temperatures, entropy takes precedence and o
   <li> Plot the measured properties using a plotting software of choice </li>
  </ul>
 
-<h3> Simulation topologies </h3>
+<h2> Simulation topologies </h2>
 
 **The files required for running the simulations can be found from this link.**<br>
 https://drive.google.com/drive/folders/1XZ0GzTJOC8TdTmdVBk7RH4Wap9RZ-ku9?usp=share_link<br>
@@ -44,7 +44,7 @@ For example, if you want to unzip benzene_water.zip, type<br>
 ```unzip benzene_water.zip```<br>
 This will unzip the respective zip file and you should see a folder with the same name.
 
-<h3> Suggested practices </h3>
+<h2> Suggested practices </h2>
  Data storage and management is a very important part of working in a computational lab.<br>
  Curation of the generated data into proper directories, with self-explanatory directory and file names and paths is very important.<br>
  Without proper data management, things can become very messy very fast. Therefore it is advised to create proper directories or move important, downloaded content to proper locations before initiation of any procedure involving them.
