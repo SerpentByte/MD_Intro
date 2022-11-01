@@ -38,7 +38,7 @@ However, in low concentrations/high temperatures, entropy takes precedence and o
 https://drive.google.com/drive/folders/1XZ0GzTJOC8TdTmdVBk7RH4Wap9RZ-ku9?usp=share_link<br>
 
 **How to use the zip files**<br>
-Right click on each of them to get the download option. In Linux, type the following<br>
+Right click on each of them to get the download option. Once downloaded, in *Linux*, type the following<br>
 ```unzip <filename>```<br>
 For example, if you want to unzip benzene_water.zip, type<br>
 ```unzip benzene_water.zip```<br>
