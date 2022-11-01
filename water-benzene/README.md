@@ -35,3 +35,9 @@ However, in low concentrations/high temperatures, entropy takes precedence and o
 **The files required for running the simulations can be found from this link.**<br>
 https://drive.google.com/drive/folders/1XZ0GzTJOC8TdTmdVBk7RH4Wap9RZ-ku9?usp=share_link
 
+**How to use the zip files**
+Right click on each of them to get the download option. In Linux, type the following<br>
+```unzip <filename>```<br>
+For example, if you want to unzip benzene_water.zip, type<br>
+```unzip benzene_water.zip```<br>
+This will unzip the respective zip file and you should see a folder with the same name.
