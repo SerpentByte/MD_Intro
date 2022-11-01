@@ -8,18 +8,28 @@ The reason being their mixture is energetically (enthalpic) forbidden.
 
 However, in low concentrations/high temperatures, entropy takes precedence and one can still obtain "solvated" benzene/water.
 
-<h3> What is to be done </h3>
-<ul>
- <li> Prepare a neat water system. </li>
- <li> Prepare a pure benzene system. </li>
- <li> Prepare systems where benzene is present in water at concentrations 10%, 15% and 20% (v/v). </li>
- <li> Prepare systems where water is present in benzene at concentrations 10%, 15% and 20% (v/v). </li>
- <li> Generate images/snapshots of each system. </li>
- <li> Measure some statistical quantities: $g(r)$, $MSD$, etc </li>
- <li> Repeat for two water models: i) TIP3P-charmm ii) TIP3P </li>
-</ul>
+<h2> What is to be done </h2>
 
-**The files required for running the simulations have been provided in this folder.**<br>
-**For calculating the number of water molecules to put into a box, *see conc.md* file.**
+<h3> Systems to be set up </h3>
+ <ul>
+  <li> Prepare a neat water system. (1 simulation) </li>
+  <li> Prepare a pure benzene system. (1 simulation) </li>
+  <li> Prepare systems where benzene is present in water at concentrations 10%, 15% and 20% (v/v). (3 simulations) </li>
+  <li> Prepare systems where water is present in benzene at concentrations 10%, 15% and 20% (v/v). (3 simulations) </li>
+ </ul>
 
-*please use 6 nm as the box length so as all simulations done are on the same system size.*
+<h3> Simulations details </h3>
+ <ul>
+  <li> With a box size of 6nm for system, first run energy miniimizations. Then perform NVT and NPT equilibrations followed by 100ns of NPT production runs. (total of 8 simulations in total) </li>
+  <li> **For neat water only, vary the box size: 4nm, 6nm, 8nm. (3 simulations)
+  <li> **For neat water only, vary the water model: SPC/E and TIP3P. (2 simulations)
+ </ul>
+ 
+<h3> Analysis, plotting and snapshots </h3>
+ <ul>
+  <li> Generate images/snapshots of each system. </li>
+  <li> Measure some statistical quantities: $g(r)$, $MSD$, etc </li>
+  <li> Plot the measured properties using a plotting software of choice </li>
+ </ul>
+
+**The files required for running the simulations have been/will be provided in this folder each with a README. This README will also be updated accordingly.**<br>
