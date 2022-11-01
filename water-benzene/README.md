@@ -32,4 +32,6 @@ However, in low concentrations/high temperatures, entropy takes precedence and o
   <li> Plot the measured properties using a plotting software of choice </li>
  </ul>
 
-**The files required for running the simulations have been/will be provided in this folder each with a README. This README will also be updated accordingly.**<br>
+**The files required for running the simulations can be found from this link.**<br>
+https://drive.google.com/drive/folders/1XZ0GzTJOC8TdTmdVBk7RH4Wap9RZ-ku9?usp=share_link
+
