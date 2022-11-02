@@ -20,7 +20,7 @@ For this one would need to know the account name, its password and the *IP* of t
     link/ether 0c:c4:7a:b0:cf:1f brd ff:ff:ff:ff:ff:ff
 ```
     
-Look for something that starts with **enp**. The is the ethernet port (LAN) IP. The IP is the one given beside inet. The format is XXX.XXX.XXX.XXX where XXX is anything between 0-255. An example is 192.168.0.1.
+Look for something that starts with **enp** followed by the term **BROADCAST**. The is the ethernet port (LAN) IP. The IP is the one given beside inet. The format is XXX.XXX.XXX.XXX where XXX is anything between 0-255. An example is 192.168.0.1.
 
 <h3> Logging into a server from Linux</h3>
 
