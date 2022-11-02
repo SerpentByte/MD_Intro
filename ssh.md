@@ -32,7 +32,7 @@ Press ```Ctrl+D``` or type ```exit``` to exit.<br>
 <h3> Logging into a server from Windows </h3>
 
 Windows does not have a *Terminal* not does it have ssh by default. Therefore one has to use a ssh client. One of the recommended client is **MobaXterm** (https://mobaxterm.mobatek.net/)<br>
-Here are the steps to log into a server using MobaXterm<br>
+Here are the steps to log into a server using MobaXterm
 <ul>
   <li> Open the software. </li>
   <li> Type the IP address of the server you want to connect to in the field labeled ‘Remote host’. </li>
