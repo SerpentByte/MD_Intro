@@ -65,10 +65,26 @@ This will unzip the respective zip file and you should see a folder with the sam
 
  There are two ways one can copy file to and from a server.<br>
  <h4> using scp </h4>
- 
+ To send to a server,<br>
  ```scp -r <path to file> <username>@<IP>:<path where to send the file>```<br>
  For example,<br>
  ```scp -r prod.mdp user@118.254.89.7:$HOME/simulations/production/```
+ 
+ To receive from a server,<br>
+ ```scp -r <username>@<IP>:<path of the file> <path to file>```<br>
+ For example,<br>
+ ```scp -r user@118.254.89.7:$HOME/simulations/production/prod.mdp .```
+ 
+ <h4> using rsync </h4>
+ To send to a server,<br>
+ ```rsync -avPh <path to file> <username>@<IP>:<path where to send the file>```<br>
+ For example,<br>
+ ```rsync -avPh prod.mdp user@118.254.89.7:$HOME/simulations/production/```
+ 
+ To receive from a server,<br>
+ ```rsync -avPh <username>@<IP>:<path of the file> <path to file>```<br>
+ For example,<br>
+ ```rsync -avPh user@118.254.89.7:$HOME/simulations/production/prod.mdp .```
  
 
 <h2> Suggested practices </h2>
