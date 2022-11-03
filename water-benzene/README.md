@@ -76,6 +76,7 @@ This will unzip the respective zip file and you should see a folder with the sam
  ```scp -r user@118.254.89.7:$HOME/simulations/production/prod.mdp .```
  
  <h4> using rsync </h4>
+ 
  To send to a server,<br>
  ```rsync -avPh <path to file> <username>@<IP>:<path where to send the file>```<br>
  For example,<br>
