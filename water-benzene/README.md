@@ -65,6 +65,7 @@ This will unzip the respective zip file and you should see a folder with the sam
 
  There are two ways one can copy file to and from a server.<br>
  <h4> using scp </h4>
+ 
  To send to a server,<br>
  ```scp -r <path to file> <username>@<IP>:<path where to send the file>```<br>
  For example,<br>
