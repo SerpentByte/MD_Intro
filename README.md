@@ -4,7 +4,7 @@ This repository contains material for a quick start to Molecular Dynamics (MD) s
 Basic working knowledge of Linux command line and Python are required (links below)<br>
 <ul>
   <li>Linux command line: https://www.youtube.com/watch?v=ROjZy1WbCIA<br>(see the chapter Terminals, Working with directories, Working with files)</li>
-  <li>Python introduction: https://www.youtube.com/watch?v=rfscVS0vtbw <br> (till chapter Comments)</li>
+  <li>Python introduction: https://www.youtube.com/watch?v=rfscVS0vtbw <br> (till chapter Writing to files)</li>
   <li>Vim: https://www.youtube.com/watch?v=ggSyF1SVFr4</li>
 </ul>
 <br>
