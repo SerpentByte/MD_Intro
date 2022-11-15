@@ -1,3 +1,5 @@
+<h1> Basic plotting </h1>
+
 ```
 import numpy as np # for loading and manipulating data
 import matplotlib.pyplot as plt # for plotting
@@ -33,4 +35,22 @@ ax.legend()
 fig.savefig("neat_water/rdfs.png", bbox_inches="tight", dpi=200)
 
 plt.show() # need this command in a .py file to show the plot. HAS TO THE LAST COMMAND
+```
+
+
+<h1> Plotting with mean and standard deviation in the labels </h1>
+
+```
+import numpy as np
+import matplotlib.pyplot as plt
+
+time, dens = np.loadtxt("neat_water/dens.xvg", unpack=True, comments=["#", "@"])
+
+fig, ax = plt.subplots(1, 1, figsize=(6, 6))
+
+ax.plot(time, dens, lw=2, color="red", label=f"density1 ({dens.mean():.2f}$\pm${dens.std():.2f})")
+
+ax.legend()
+
+plt.show()
 ```
