@@ -48,7 +48,7 @@ time, dens = np.loadtxt("neat_water/dens.xvg", unpack=True, comments=["#", "@"])
 
 fig, ax = plt.subplots(1, 1, figsize=(6, 6))
 
-ax.plot(time, dens, lw=2, color="red", label=f"density1 ({dens.mean():.2f}$\pm${dens.std():.2f})")
+ax.plot(time, dens, lw=2, color="red", label=f"density ({dens.mean():.2f}$\pm${dens.std():.2f})")
 
 ax.legend()
 
